@@ -5,7 +5,8 @@
 * HTML (Including HTML5 best practices)
 * CSS (Including CSS3 and Progressive Enhancement)
 * Chrome Dev Tools
-* Github / Github
+* Github Overview / GIT Syntax
 * Various command line / bash / zsh shell things I didn't know before
   * How to theme / modify the terminal
 * A small bit of Javascript so far
+* How to use Git markdown to style this Readme.md file
